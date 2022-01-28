@@ -1,0 +1,5 @@
+Nella programmazione dinamica viene usata per risolvere problemi di ottimizzazione. con questo metodo ad ogni stage effettuiamo delle scelte in base ad una tabella di soluzioni che utiliziamo per evitare di ripetere calcoli che abbiamo già effettuato.
+
+uno degli esempi è il calcolo del numero di fibonacci, in una versione ricorsivia, se andiamo a calcolare il numero di fibonacci di 5 ricaviamo e sommiamo le cifre precedenti n-1 e n-2 in modo ricorsivo fino a quando non arriviamo a calcolare n <= 1 ed in quel caso ritorniamo n.
+Essenzialmente otteniamo un albero con svariate ripetizioni dove andiamo a calcolare il fibonacci di 0, 1 e 2 svariate volte. Questo possiamo evitarlo se in una tavola andiamo ad inserire il risulato di una certa N, in modo che possiamo ottenere il valore in tempo O(1) invece che continuando la ricorsività.
+In questo modo dalle O(2^n ) chiamate le riduciamo a 5 chiamate quindi O(n)
