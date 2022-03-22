@@ -7,11 +7,8 @@
         "id": "5a27a9db36b44598",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Data Structures/4 - Stack e Code.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/4 - Stack e Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "5a27a9db36b44598",
   "lastOpenFiles": [
-    "Data Structures/4 - Stack e Code.md",
     "Data Structures/5 - Liste Concatenate o Linked List - Da rifare, devo creare un discorso.md",
+    "README.md",
+    "Data Structures/4 - Stack e Code.md",
     "Data Structures/6 - Tabella Hash.md",
     "Attraversamento Grafi/Primm & Kruskals - min cost spanning tree.md",
     "Sorting Algorithms/Merge Sort.md",
     "Attraversamento Grafi/BFS DFS Breadth e Depth.md",
     "Data Structures/7 - Heap.md",
     "S All pair Shortest Path/Floyd Warshall.md",
-    "S All pair Shortest Path/Johnson.md",
-    "Knapsack/Knapsack problem - greedy frazionario.md"
+    "S All pair Shortest Path/Johnson.md"
   ]
 }
